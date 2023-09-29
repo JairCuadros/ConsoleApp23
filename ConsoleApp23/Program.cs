@@ -44,7 +44,7 @@ while (opcion)
                 Console.WriteLine("======================================");
                 Console.WriteLine("Estadísticas:");
                 Console.WriteLine("-----------------------");
-                Console.WriteLine("No me alcanzó tiempo para hacer el último punto :c");
+                Console.WriteLine("No me alcanzó tiempo para hacer el último punto :( y sinceramente no tenía idea de como hacerlo");
             }
             break;
     }
