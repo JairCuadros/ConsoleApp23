@@ -44,7 +44,7 @@ while (opcion)
                 Console.WriteLine("======================================");
                 Console.WriteLine("Estadísticas:");
                 Console.WriteLine("-----------------------");
-                Console.WriteLine(asistActuales);
+                Console.WriteLine("No me alcanzó tiempo para hacer el último punto :c");
             }
             break;
     }
